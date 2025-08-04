@@ -1,1 +1,0 @@
-# Algoritmos-Geneticos-Proyecto-de-Investigacion
